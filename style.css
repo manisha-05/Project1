@@ -1,0 +1,60 @@
+
+.bkg{
+    background-image: url(img/lobby2.jpeg);
+    width: 100%;
+    height: 60vh;
+    background-repeat: no-repeat;
+    object-fit: cover;
+}
+.algn{
+    margin-top: 60px;
+}
+h1{
+    color: white;
+}
+.crd{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    height: 70vh;
+}
+.hgt{
+    height: 100vh;
+}
+.txt1{
+    text-align: center;
+    font-size: 2rem;
+    color: grey;
+    letter-spacing: .05rem;
+    
+}
+.card1{
+    background-color: #aff0ea;
+}
+.hgt1{
+    height: 45vh;
+    width: 100%;
+    background-color: black;
+    color: white;
+}
+.cont1{
+    width: 80vh;
+    display: flex;
+   
+    justify-content: space-around;
+}
+.txt1{
+    width: 40%;
+}
+.lbl{
+    color: white;
+}
+.btn1{
+    margin : 5px 4px;
+
+}
+
+
+
+
+
